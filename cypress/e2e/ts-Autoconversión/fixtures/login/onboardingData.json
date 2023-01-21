@@ -1,0 +1,38 @@
+{
+    "VisualOnboarding":[
+        {
+            "image":"/assets/images/onboarding-1.jpeg",
+            "name":"Shayleen M.",
+            "jobTitle":"Emprendedora TISSINI",
+            "title":"La oportunidad que te acercará a tus sueños",
+            "description":"En TISSINI es fácil, es real. Compras con descuentos especiales, vendes con los precios que quieras, las ganancias son para ti",
+            "button":"Siguiente"
+        },
+        {   
+            "image":"/assets/images/onboarding-2.jpeg",
+            "name":"Shayleen M.",
+            "jobTitle":"Emprendedora TISSINI",
+            "title":"Más beneficios y más premios para ti",
+            "description":"Recibes formación virtual gratuita, acumulas puntos por tus compras y disfrutas de un mundo de beneficios para ti y tu negocio.",
+            "button":"Siguiente"
+        },
+        {
+            "image":"/assets/images/onboarding-3.jpeg",
+            "name":"Shayleen M.",
+            "jobTitle":"Emprendedora TISSINI",
+            "title":"Empieza tu negocio propio con TISSINI",
+            "description":"Estás a pocos clics de hacer realidad tu negocio. Empieza y desbloquea desde ya beneficios exclusivos.",
+            "button":"Siguiente"
+
+        },
+        {
+            "image":"/assets/images/onboarding-4.jpeg",
+            "name":"Shayleen M.",
+            "jobTitle":"Emprendedora TISSINI",
+            "title":"¡Tu negocio está casi listo!",
+            "description":"Agrega a tu carrito de compras tus productos favoritos, empieza a ofrecerlos y genera tus propios ingresos.",
+            "button":"Ingresar a Mi Negocio TISSINI"
+
+        }
+    ]
+}

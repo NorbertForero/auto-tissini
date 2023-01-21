@@ -1,0 +1,29 @@
+{
+    "Titulo":[
+        "¡Hola Norbert!",
+        "Aquí comienza tu camino como Emprendedora",
+        "¿Cómo empezar tu negocio y generar tus ingresos?",
+        "Elige el kit para empezar tu negocio",
+        "También puedes iniciar tu negocio sin dinero",
+        "¿Necesitas ayuda con tu compra?"
+
+    ],
+    "descripcion":[
+        "Como tú, miles de mujeres latinas decidieron comenzar su propio negocio y lograr su independencia económica en EE.UU. vendiendo nuestros productos.",
+        "Tienes la libertad de compartir los productos en tus redes sociales. Ofrécelos a tus amigos, cierra tus ventas y con sus pagos realiza tu compra.",
+        "Tenemos un equipo especializado para ayudarte a resolver todas tus dudas."
+    ],
+    "labels":[
+        "Ver video",
+        "Ver productos para compartir"
+    ],
+    "images":[
+        "/assets/icons/user-shopping-wishlist.svg",
+        "/_next/image?url=%2Fassets%2Ficons%2Fwhatsapp-c.png&w=640&q=75"
+    ],
+    "buttonContactExecutive":"Contacta un Ejecutivo",
+    "Copyright":{
+        "copy":"Copyright © 2022, Amani Enterprices"
+    }
+
+}

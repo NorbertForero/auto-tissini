@@ -1,0 +1,20 @@
+{
+    "title":"Pagar orden",
+    "subtitle": "Diligencia los datos de la tarjeta",
+    "description":"Pago con tarjeta de crédito y/o débito",
+    "iconTcs":"",
+    "tc":{
+        "numOk": "4242424242424242",
+        "numFailed": "4265487897984551",
+        "name": "Norbet Forero",
+        "date": "0524",
+        "cvv":"123"
+    },
+    "buttonContinue": "Continuar",
+    "buttonBack": "Regresar",
+    "Copyright":"Copyright © 2022, Amani Enterprices",
+    "alertNumCreditCard":"Debes ingresar el número de tu tarjeta completo",
+    "alertName":"Debes ingresar el nombre del titular de tu tarjeta",
+    "alertDate":"Debes ingresar la fecha de expiración de tu tarjeta",
+    "alertCode":"Debes ingresar el código cvv/cvc de tu tarjeta"
+}

@@ -1,0 +1,51 @@
+{
+    "page": {
+        "title": "Mi carrito",
+        "NumArticles": "3 articulos",
+        "ResumenCost": [
+            "Resumen",
+            "Subtotal",
+            "Total a pagar"
+        ],
+        "Costs": [
+            "$107.95",
+            "$107.95"
+        ],
+        "buttonPay": "Pagar $107.95",
+        "labelCleanCart": "Vaciar carrito",
+        "Copyright": "Copyright © 2022, Amani Enterprices"
+    },
+    "kit": [
+        {
+            "name": "Blusa Juliana",
+            "talla": "Talla: L",
+            "amount": "Cantidad: 1",
+            "promoPrice": "$ 24.95",
+            "price": "$24.95",
+            "imagen": "https://tissiniapp.s3.us-east-2.amazonaws.com/img/products/1000x1000/2205-146_0.jpg"
+        },
+        {
+            "name": "Jean Danna",
+            "talla": "Talla: 15",
+            "amount": "Cantidad: 1",
+            "promoPrice": "$ 59.95",
+            "price": "$38.97",
+            "imagen": "https://tissiniapp.s3.us-east-2.amazonaws.com/img/products/1000x1000/2205-149_0.jpg"
+        },
+        {
+            "name": "Jean Francy",
+            "talla": "Talla: 13",
+            "amount": "Cantidad: 1",
+            "promoPrice": "$ 67.95",
+            "price": "$44.17",
+            "imagen": "https://tissiniapp.s3.us-east-2.amazonaws.com/img/products/1000x1000/2205-105_0.jpg"
+        }
+    ],
+    "modalGoCart":{
+        "title":"Tus productos se han agregado con éxito",
+        "description": "Puedes ir al carrito para continuar con el pago de tu orden o agregar otros productos.",
+        "buttonGoCart": "Ir al carrito",
+        "buttonKeepBuying": "Seguir comprando",
+        "buttonCloseModal": "cy.get('.css-14vhqc4-MuiStack-root > .MuiButtonBase-root > .material-icons')"
+    }
+}

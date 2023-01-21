@@ -1,0 +1,51 @@
+{
+    "page": {
+        "title": "Resumen de tu orden",
+        "description": "Consulta el resumen de tu pedido antes de pagar",
+        "cardViews": [
+            {
+                "title": "Dirección de entrega",
+                "description": "Wilshire Blvd. 8383, Suite 960 90211",
+                "option": "Editar"
+            },
+            {
+                "title": "Mi pedido",
+                "description": "3 Productos agregados",
+                "option": "Editar",
+                "products": [
+                    {
+                        "name": "Blusa Juliana L",
+                        "price": "$24.95"
+                    },
+                    {
+                        "name": "Jean Danna 15",
+                        "price": "$38.97"
+                    },
+                    {
+                        "name": "Blusa Juliana L",
+                        "price": "$44.17"
+                    }
+                ]
+            },
+            {
+                "title": "Método de pago",
+                "imagenPaymentMetods": "/_next/image?url=%2Fassets%2Fimages%2Fvisa.png&w=128&q=75",
+                "num": "************4242",
+                "date": "05/24",
+                "option": "Editar"
+            }
+        ],
+        "costSummary": {
+            "title": "Resumen de costos",
+            "subtotalCopy": "Subtotal",
+            "subtotal": "$107.95",
+            "taxesCopy": "Taxes",
+            "taxes": "$14.52",
+            "totalCopy": "Total",
+            "total": "$122.47"
+        },
+        "buttonContinue": "Pagar ahora $122.47",
+        "buttonBack": "Regresar",
+        "Copyright": "Copyright © 2022, Amani Enterprices"
+    }
+}

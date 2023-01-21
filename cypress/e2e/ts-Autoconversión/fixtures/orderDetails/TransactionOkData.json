@@ -1,0 +1,22 @@
+{
+    "page":{
+        "logoTissini":"data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27183%27%20height=%2752.64%27/%3e",
+        "checkOk":"data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2772%27%20height=%2772%27/%3e",
+        "titulo":"Tu pago ha sido aprobado",
+        "subtitulo1":"Información de la transacción",
+        "labelTransaction":"Número de la transacción",
+        "labelReference":"Referencia de pago",
+        "labelCode":"Auth code",
+        "labelTotalPrice":"$122.47",
+        "subtitulo2":"Información del pagador",
+        "labelNombre":"Nombre",
+        "nombre":"Norbert",
+        "labelApellido":"Apellido",
+        "apellido":"Forero",
+        "labelTelefono":"Teléfono",
+        "telefono":"7865470212",
+        "buttonBackTop":"Volver al inicio",
+        "labelPrint":"Imprimir o descargar comprobante",
+        "Copyright":"Copyright © 2022, Amani Enterprices"
+    }
+}

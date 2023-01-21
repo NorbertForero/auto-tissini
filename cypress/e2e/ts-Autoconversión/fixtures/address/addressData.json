@@ -1,0 +1,18 @@
+{
+    "visual":{
+        "Title": "Pagar orden",
+        "Subtitle": "Dirección de envío",
+        "ButtonContinue": "Continuar",
+        "ButtonBack": "Regresar",
+        "Copyright": "Copyright © 2022, Amani Enterprices",
+        "address":{
+            "address":" Wilshire Blvd. 8383, Suite 960",
+            "address_2": "Beverly Hilss",
+            "phone": 7865470212,
+            "zipcode": 90211
+        },
+        "alertsAddress":"Ingresa la dirección",
+        "alertsMobilPhone":"El número debe tener minimo 10 dígitos",
+        "alertsPostalCode":"El código postal es requerido"
+    }
+}

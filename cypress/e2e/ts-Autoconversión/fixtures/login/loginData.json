@@ -1,0 +1,49 @@
+{
+    "Logo":{
+        "src": "assets/icons/main-tissini-icon.svg"
+    },
+    "ModalPhoneNumber":{
+        "Titulo":"Ingresa tu número telefónico",
+        "Descripcion":"Asegúrate de que el número que diligencies esté escrito correctamente para recibir tu código PIN de verificación.",
+        "input": "Número de teléfono",
+        "BotonContinuar":"Continuar",
+        "BotonRegresar":"Regresar"
+    },
+    "CodePhoneNumber":{
+        "Titulo":"Ingresa el código PIN enviado a tu teléfono",
+        "Descripcion":"Hemos enviado un código por mensaje de texto. Por favor, ingrésalo para iniciar tu sesión",
+        "inputCode1": "Número de teléfono",
+        "inputCode2": "Número de teléfono",
+        "inputCode3": "Número de teléfono",
+        "inputCode4": "Número de teléfono",
+
+        "label": "¿No has recibido el código?",
+        "labelUrl": "Enviar un nuevo código",
+        
+        "BotonContinuar":"Continuar",
+        "BotonRegresar":"Regresar"
+    },
+    "alerts":[
+        "El código de acceso es obligatorio",
+        "El número de teléfono es obligatorio",
+        "El campo está por encima del límite de 15 caracteres.",
+        "El campo está por debajo del límite de 10 caracteres"
+    ],
+    "alertError":{
+        "title":"¡Uppsss!",
+        "descripcion": "El código es incorrecto. Intentalo nuevamente."
+    },
+    "Copyright":{
+        "copy":"Copyright © 2022, Amani Enterprices"
+    },
+    "user":{
+        "name":"Norbert",
+        "lastname":"Forero",
+        "email":"norbert.forero@tissini.com",
+        "phoneNumber":"7865470212",
+        "Code1":"1",
+        "Code2":"2",
+        "Code3":"3",
+        "Code4":"4"
+    }
+}

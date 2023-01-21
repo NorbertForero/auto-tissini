@@ -1,2 +1,1 @@
-# auto-tissini
-Automatizacion app movil Tissini con Cypress
+# automatizacion-tissini

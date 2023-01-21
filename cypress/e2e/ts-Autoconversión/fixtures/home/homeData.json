@@ -1,0 +1,13 @@
+{
+    "BackgroundImage":{
+        "url": "/assets/images/login.png"
+    },
+    "Logo":{
+        "src": "/assets/images/tissini-logo-white.svg"
+    },
+    "Descripcion":"Este es el primer paso para empezar tu propio negocio en EE.UU. con productos 100% Colombianos de alta calidad, desde tu hogar.",
+    "Button":"Empezar ahora",
+    "Copyright":{
+        "copy":"Copyright © 2022, Amani Enterprices"
+    }
+}
